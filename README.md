@@ -20,10 +20,10 @@ doi = {10.20906/CPS/CILAMCE2017-0695}
 The experimental setup is shown in Figure 1. 
 
 <div style="width:100%; align:center;">
-  <div style="float: left; margin: 25px">
+  <div style="float: left;">
     <img src="imgs/Setup.jpg" height="400">
   </div>
-  <div style="float: left; margin: 25px">
+  <div style="float: left;">
     <img src="imgs/SetupSchematics.png" height="400">
   </div>
   <div>
