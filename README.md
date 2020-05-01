@@ -19,17 +19,10 @@ doi = {10.20906/CPS/CILAMCE2017-0695}
 
 The experimental setup is shown in Figure 1. 
 
-<div style="width:100%; align:center;">
-  <div style="float: left;">
-    <img src="imgs/Setup.jpg" height="400">
-  </div>
-  <div style="float: left;">
-    <img src="imgs/SetupSchematics.png" height="400">
-  </div>
-  <div>
-  <p> Figure 1 - Experimental setup. (a) Image of the experiment. (b) Schematic view. </p>
-  </div>
-</div>
+![GitHub Logo](/images/logo.png)
+
+<p> <img src="imgs/Setup.jpg" height="400"> &nbsp;  &nbsp; &nbsp;  &nbsp;  <img src="imgs/SetupSchematics.png" height="400"> <p>
+<p> Figure 1 - Experimental setup. (a) Image of the experiment. (b) Schematic view. </p>
 
 The hardware consist of: 
 
