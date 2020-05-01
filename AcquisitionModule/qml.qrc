@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WindowRecord.qml</file>
+        <file>WindowDecode.qml</file>
+        <file>imgs/record.svg</file>
+        <file>FirstWindow.qml</file>
+        <file>imgs/ForwardArrow.svg</file>
+        <file>imgs/refresh.svg</file>
+        <file>WindowCalibrate.qml</file>
+        <file>ImageBox.qml</file>
+    </qresource>
+</RCC>
