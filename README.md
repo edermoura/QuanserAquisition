@@ -2,6 +2,18 @@
 
 This project consist of the software modules for the evaluation of visual-inertial algorithms for attitude estimation, using the [Quanser 3D DOF hover](https://www.quanser.com/products/3-dof-hover/) [1] as a test bed. This project is part of the work: [Comparative Evaluation of Filtering Methods in an Experimental Visual-Inertial Attitude Determination Setup](https://www.researchgate.net/publication/321505855_Comparative_Evaluation_of_Filtering_Methods_in_an_Experimental_Visual-Inertial_Attitude_Determination_Setup) [2]. 
 
+This work is part of the doctoral thesis developed at the [graduate course in Aeronautical and Mechanical Engineering](http://www.ita.br/posgrad/pgeam-en2) of the Intituto Tecnológico de Aeronáutica (ITA), in the Aeronautical Design, Aerospace Systems and Structures program. 
+
+I acknowledge the financial support of Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), through the doctoral scholarship number 88882.180838/2018-01 from the Programa de Excelência Acadêmica (PROEX).
+
+The development team is composed by:
+
+- Éder Alves de Moura [link](http://lattes.cnpq.br/2638643671391285) (me);
+- Beatriz Asfora [link](http://lattes.cnpq.br/8622857658126697);
+- Davi Antônio dos Santos [link](https://www.professordavisantos.com/);
+- Luiz Carlos Sandoval Góes [link](http://lattes.cnpq.br/4548734294382889).
+
+
 *Disclaimer*: If you use part of this work, cite this repository and the original work. Cite as:
 
 ```
@@ -14,6 +26,7 @@ title = {Comparative Evaluation of Filtering Methods in an Experimental Visual-I
 doi = {10.20906/CPS/CILAMCE2017-0695}
 }
 ```
+
 
 # Experimental Setup
 
